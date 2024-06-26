@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vinayreddy-01
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m A DATA SCIENTIST 
+- 🌱 I’m currently a Data Science intern
+- 💞️ I’m looking to collaborate on Doing Machine learning projects
+- 📫 you can reach me on vinayreddy9321@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: entering the hell of code to mess the hell.
 
 <!---
