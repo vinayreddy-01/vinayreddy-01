@@ -8,7 +8,7 @@
 
 I'm experienced in a wide array of data science domains, from AI product development to financial modeling. I’ve applied machine learning to projects in various industries, including e-commerce and the electric vehicle sector. My goal is to create impactful solutions using data and machine learning.
 
-🔗 **[Download My Resume](your-resume-link-here)**
+🔗 **[Download My Resume](https://drive.google.com/file/d/16xDa2EdnhEl4cPX4md8hb03JhHDbTV2m/view?usp=drive_link)**
 
 ---
 
